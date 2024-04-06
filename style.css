@@ -1,0 +1,33 @@
+.bloco{
+    width: 200px;
+    height: 100px;
+   border:dashed red 2px;
+   overflow: auto;
+   display: inline block;
+}
+
+
+
+#container{
+    border: 1px solid black;
+    width: 80%;
+    margin: 0px auto;
+
+}
+
+.azul{
+    background-color: aquamarine;
+}
+
+.vermelho{
+    background-color: rgb(236, 63, 63);
+}
+
+.amarelo{
+    background-color: rgba(255, 255, 14, 0.795);
+
+}
+
+.verde{
+    background-color: rgba(0, 128, 0, 0.795);
+}
